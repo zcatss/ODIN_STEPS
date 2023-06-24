@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "a profile to describe my learning steps on `THE ORDIN PROJECT` website, its also my record of checking the front-end & back-end knowledge I learned through this website and comparing it to me on the developer roadmap",
   "main": "index.js",
-  "scripts": {
-    "dev": ""
-  },
+  "scripts": {},
   "author": "Seaming",
   "license": "MIT",
   "dependencies": {
